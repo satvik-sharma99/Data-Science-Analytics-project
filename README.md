@@ -1,13 +1,14 @@
+Project Highlights 🚀
 1. Supply Chain Analysis 🏭🚚
 Description:
-Analyzed various stages of a supply chain (sourcing, manufacturing, transportation, inventory) to identify inefficiencies and optimize operations.
+Analyzed various stages of a supply chain—sourcing, manufacturing, transportation, and inventory—to identify inefficiencies and optimize operations.
 
 Key Tools:
 🐍 Python: Pandas, Plotly
 Highlights:
 🧹 Cleaned and processed raw supply chain data for analysis.
 📊 Visualized insights through interactive graphs using Plotly.
-🚀 Proposed actionable recommendations, improving operational efficiency.
+🚀 Proposed actionable recommendations to improve operational efficiency.
 Visual Example:
 
 2. Customer Lifetime Value Analysis 👥💰
@@ -21,4 +22,12 @@ Key Tools:
 Highlights:
 🗂️ Designed SQL queries for customer segmentation and financial metric computation.
 📊 Built dashboards to present ROI trends and customer lifetime values.
-🎯 Identified profitable channels, leading to better-targeted marketing strategies.
+🎯 Identified profitable channels, enabling better-targeted marketing strategies.
+
+
+
+
+
+
+
+

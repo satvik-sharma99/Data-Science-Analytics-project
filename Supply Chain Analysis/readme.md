@@ -4,7 +4,7 @@
 This project focuses on supply chain analytics for a Fashion and Beauty startup specializing in makeup products. The goal is to analyze the supply chain data to optimize performance, reduce costs, and enhance customer satisfaction.
 
 ---
-
+**Note** : The python code file is avilable in the same repository
 ## **Dataset**
 The dataset contains information about the supply chain of makeup products, with the following features:
 
